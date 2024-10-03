@@ -47,7 +47,6 @@ To run this project locally:
 
 The app will run locally on `http://localhost:5173`.
 
----
 
 ## Usage
 
@@ -57,7 +56,6 @@ The app will run locally on `http://localhost:5173`.
 4. **Marking a Task as Completed**: Click the checkbox next to a task to mark it as completed or pending.
 5. **Showing Completed Tasks**: Check the "Show Finished" checkbox to display only completed tasks. Uncheck it to view pending tasks.
 
----
 
 ## Project Structure
 
@@ -69,7 +67,6 @@ The app will run locally on `http://localhost:5173`.
   index.js        // Entry point for the React app
 ```
 
----
 
 ## Local Storage
 
@@ -88,7 +85,6 @@ The app saves the tasks in the browser’s local storage, allowing users to pres
 
 This project is licensed under the MIT License. You can find a copy of the license [here](https://opensource.org/licenses/MIT).
 
----
 
 ## Contributing
 
