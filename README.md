@@ -107,6 +107,6 @@ Please make sure to update tests as appropriate.
 
 For any inquiries, suggestions, or feedback, please contact me at:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [evitabarboza195@gmail.com](mailto:evitabarboza195@gmail.com)
 - **GitHub**: [Evita Barboza](https://github.com/evitabarboza)
 
