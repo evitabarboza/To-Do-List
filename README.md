@@ -83,11 +83,14 @@ The app saves the tasks in the browser’s local storage, allowing users to pres
 - [Tailwind CSS](https://tailwindcss.com/)
 
 
+## Contribution
+
+If you have any suggestions or improvements, feel free to submit a pull request or open an issue on the GitHub repository.
+
 ## License
 
-This project is licensed under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
+## Contact
 
-## Author
-
-- [Evita Barboza](https://github.com/evitabarboza)
+For any inquiries, please contact me at evitabarboza195@gmail.com
